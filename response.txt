@@ -1,0 +1,920 @@
+Result[
+queryresult=QueryResult[
+  query=null, 
+  success=true,
+  error=false,
+  numpods=16,
+  version=2.6,
+  datatypes=,
+  timing=3.673,
+  timedout=0,
+  parsetiming=0.154,
+  parsedtimeout=false,
+  recalculate=,
+  languagemsg=null,
+  tips=null,
+  futuretopic=null,
+  pods=[
+    Pod[
+      title=Input,
+      error=false,
+      position=100,
+      scanner=Identity,
+      id=Input,
+      numsubpods=1,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5877189i4d212hhdh0g100005c511ab2gf02egag?MSPStoreType=image/gif&s=13,
+            alt=cos(x),
+            title=cos(x),
+            width=40,
+            height=19,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Plots,
+      error=false,
+      position=200,
+      scanner=Plotter,
+      id=Plot,
+      numsubpods=2,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5878189i4d212hhdh0g100001g500c1d71cc077d?MSPStoreType=image/gif&s=13,
+            alt=Plots,
+            title=,
+            width=347,
+            height=141,
+            type=2DMathPlot_1,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5879189i4d212hhdh0g100001gi0h3hda8i53187?MSPStoreType=image/gif&s=13,
+            alt=Plots,
+            title=,
+            width=347,
+            height=145,
+            type=2DMathPlot_1,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Alternate form,
+      error=false,
+      position=300,
+      scanner=Simplification,
+      id=AlternateForm,
+      numsubpods=1,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5880189i4d212hhdh0g10000530a07cf247daefh?MSPStoreType=image/gif&s=13,
+            alt=e^(-i x)/2 + e^(i x)/2,
+            title=e^(-i x)/2 + e^(i x)/2,
+            width=74,
+            height=42,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true, contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=e^(-i x)/2 + e^(i x)/2,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Roots,
+      error=false,
+      position=400,
+      scanner=Reduce,
+      id=SymbolicSolution,
+      numsubpods=1,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5881189i4d212hhdh0g1000067iee67d85gfgfdf?MSPStoreType=image/gif&s=13,
+            alt=x = π n - π/2, n element Z,
+            title=x = π n - π/2, n element Z,
+            width=550,
+            height=34,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=x = π n - π/2, n element Z,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Properties as a real function,
+      error=false,
+      position=500,
+      scanner=FunctionProperties,
+      id=PropertiesAsARealFunction,
+      numsubpods=4,
+      subpods=[
+        Subpod[
+          title=Domain,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5883189i4d212hhdh0g1000010d43799446b57d2?MSPStoreType=image/gif&s=13,
+            alt=R (all real numbers),
+            title=R (all real numbers),
+            width=136,
+            height=19,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=R (all real numbers),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ],
+        Subpod[
+          title=Range,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5884189i4d212hhdh0g100001gdc685dbfigd992?MSPStoreType=image/gif&s=13,
+            alt={y element R : -1<=y<=1},
+            title={y element R : -1<=y<=1},
+            width=135,
+            height=19,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext={y element R : -1<=y<=1},
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=Periodicity,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5885189i4d212hhdh0g10000648iea65cd4ia2ae?MSPStoreType=image/gif&s=13,
+            alt=periodic in x with period 2 π, title=periodic in x with period 2 π,
+            width=185,
+            height=19,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=periodic in x with period 2 π,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=Parity,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5886189i4d212hhdh0g1000031b0766c6f1f7g74?MSPStoreType=image/gif&s=13,
+            alt=even,
+            title=even,
+            width=30,
+            height=19,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=even,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+
+    ], Pod[
+      title=Series expansion at x = 0,
+      error=false,
+      position=600,
+      scanner=Series,
+      id=SeriesExpansionAtx=0.,
+      numsubpods=1,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5888189i4d212hhdh0g10000391c3i5b9chadgb4?MSPStoreType=image/gif&s=13,
+            alt=1 - x^2/2 + x^4/24 + O(x^6) (Taylor series),
+            title=1 - x^2/2 + x^4/24 + O(x^6) (Taylor series),
+            width=135,
+            height=64,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=1 - x^2/2 + x^4/24 + O(x^6) (Taylor series),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Derivative,
+      error=false,
+      position=700,
+      scanner=Derivative,
+      id=Derivative,
+      numsubpods=1,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5889189i4d212hhdh0g100005320d25i04g44812?MSPStoreType=image/gif&s=13,
+            alt=d/dx(cos(x)) = -sin(x),
+            title=d/dx(cos(x)) = -sin(x),
+            width=142,
+            height=39,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=d/dx(cos(x)) = -sin(x),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Indefinite integral,
+      error=false,
+      position=800,
+      scanner=Integral,
+      id=IndefiniteIntegral,
+      numsubpods=1,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5890189i4d212hhdh0g10000534i23328bh34d62?MSPStoreType=image/gif&s=13,
+            alt=integral cos(x) dx = sin(x) + constant,
+            title=integral cos(x) dx = sin(x) + constant,
+            width=209,
+            height=36,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=integral cos(x) dx = sin(x) + constant,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+
+    ], Pod[
+      title=Identities,
+      error=false,
+      position=900,
+      scanner=FunctionProperties,
+      id=Identities,
+      numsubpods=8,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5891189i4d212hhdh0g1000043h79ei601cggch0?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = (-1)^m cos(m π + x) for m element Z,
+            title=cos(x) = (-1)^m cos(m π + x) for m element Z,
+            width=253,
+            height=19,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = (-1)^m cos(m π + x) for m element Z,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5892189i4d212hhdh0g100005geef3d8ghdcghda?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = -1 + 2 cos^2(x/2),
+            title=cos(x) = -1 + 2 cos^2(x/2),
+            width=160,
+            height=35,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = -1 + 2 cos^2(x/2),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5893189i4d212hhdh0g1000020e2i3f99fc49ee8?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = 1 - 2 sin^2(x/2),
+            title=cos(x) = 1 - 2 sin^2(x/2),
+            width=147,
+            height=35,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = 1 - 2 sin^2(x/2),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5894189i4d212hhdh0g1000060a61a49a09af1he?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = cos(x/3) (-1 + 2 cos((2 x)/3)),
+            title=cos(x) = cos(x/3) (-1 + 2 cos((2 x)/3)),
+            width=225,
+            height=37,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = cos(x/3) (-1 + 2 cos((2 x)/3)),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5895189i4d212hhdh0g1000027653iba78b21dcf?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = cos^2(x/2) - sin^2(x/2),
+            title=cos(x) = cos^2(x/2) - sin^2(x/2),
+            width=181,
+            height=35,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = cos^2(x/2) - sin^2(x/2),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5896189i4d212hhdh0g100006ac062917ii070i9?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = 1/2 (cos(b - x) + cos(b + x)) sec(b),
+            title=cos(x) = 1/2 (cos(b - x) + cos(b + x)) sec(b),
+            width=271,
+            height=37,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = 1/2 (cos(b - x) + cos(b + x)) sec(b),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5897189i4d212hhdh0g10000149cf03018iec9c4?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = 1/2 csc(b) (sin(b - x) + sin(b + x)),
+            title=cos(x) = 1/2 csc(b) (sin(b - x) + sin(b + x)),
+            width=267,
+            height=37,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = 1/2 csc(b) (sin(b - x) + sin(b + x)),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5898189i4d212hhdh0g1000027h8e031h7g953gb?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = cos(a) + 2 sin((a - x)/2) sin((a + x)/2),
+            title=cos(x) = cos(a) + 2 sin((a - x)/2) sin((a + x)/2),
+            width=266,
+            height=35,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = cos(a) + 2 sin((a - x)/2) sin((a + x)/2),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Global maxima,
+      error=false,
+      position=1000,
+      scanner=GlobalExtrema,
+      id=GlobalMaximum,
+      numsubpods=1,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5901189i4d212hhdh0g100002cceie5a56d3700f?MSPStoreType=image/gif&s=13,
+            alt=max{cos(x)} = 1 at x = 2 π n for integer n,
+            title=max{cos(x)} = 1 at x = 2 π n for integer n,
+            width=282,
+            height=19,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=max{cos(x)} = 1 at x = 2 π n for integer n,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Global minima,
+      error=false,
+      position=1100,
+      scanner=GlobalExtrema,
+      id=GlobalMinimum,
+      numsubpods=2,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5902189i4d212hhdh0g1000057542g4idd35a7ea?MSPStoreType=image/gif&s=13,
+            alt=min{cos(x)} = -1 at x = 2 π n - π for integer n,
+            title=min{cos(x)} = -1 at x = 2 π n - π for integer n,
+            width=314,
+            height=19,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=min{cos(x)} = -1 at x = 2 π n - π for integer n,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5903189i4d212hhdh0g1000044f1ac0i8eb1fd6i?MSPStoreType=image/gif&s=13,
+            alt=min{cos(x)} = -1 at x = 2 π n + π for integer n,
+            title=min{cos(x)} = -1 at x = 2 π n + π for integer n,
+            width=314,
+            height=19,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=min{cos(x)} = -1 at x = 2 π n + π for integer n,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Alternative representations,
+      error=false,
+      position=1200,
+      scanner=MathematicalFunctionData,
+      id=AlternativeRepresentations:MathematicalFunctionIdentityData,
+      numsubpods=3,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5904189i4d212hhdh0g100004if42d3ebh5i1a6b?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = cosh(i x), title=cos(x) = cosh(i x),
+            width=117,
+            height=29,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = cosh(i x),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5905189i4d212hhdh0g1000040gg63fb07736gdd?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = 1/sec(x),
+            title=cos(x) = 1/sec(x),
+            width=104,
+            height=48,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = 1/sec(x),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5906189i4d212hhdh0g10000576hg65h6f446bhd?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = cosh(-i x),
+            title=cos(x) = cosh(-i x),
+            width=128,
+            height=29,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = cosh(-i x),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Series representations,
+      error=false,
+      position=1300,
+      scanner=MathematicalFunctionData,
+      id=SeriesRepresentations:MathematicalFunctionIdentityData,
+      numsubpods=3,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5909189i4d212hhdh0g100003dh9a0e3dca5ab48?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = sum_(k=0)^∞ ((-1)^k x^(2 k))/((2 k)!),
+            title=cos(x) = sum_(k=0)^∞ ((-1)^k x^(2 k))/((2 k)!),
+            width=149,
+            height=59,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = sum_(k=0)^∞ ((-1)^k x^(2 k))/((2 k)!),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5910189i4d212hhdh0g10000586546aif2if9ii9?MSPStoreType=image/gif&s=13,
+            alt=cos(x)∝( sum_(k=0)^∞ (-1)^k (d^(1 + 2 k) δ(x))/(dx^(1 + 2 k)))/θ(x),
+            title=cos(x)∝( sum_(k=0)^∞ (-1)^k (d^(1 + 2 k) δ(x))/(dx^(1 + 2 k)))/θ(x),
+            width=191,
+            height=66,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x)∝( sum_(k=0)^∞ (-1)^k (d^(1 + 2 k) δ(x))/(dx^(1 + 2 k)))/θ(x),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5911189i4d212hhdh0g100002g83g8dgf00hc1bf?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = - sum_(k=0)^∞ ((-1)^k (-π/2 + x)^(1 + 2 k))/((1 + 2 k)!),
+            title=cos(x) = - sum_(k=0)^∞ ((-1)^k (-π/2 + x)^(1 + 2 k))/((1 + 2 k)!),
+            width=220,
+            height=64,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = - sum_(k=0)^∞ ((-1)^k (-π/2 + x)^(1 + 2 k))/((1 + 2 k)!),
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ]
+      ]
+    ], Pod[
+      title=Integral representations,
+      error=false,
+      position=1400,
+      scanner=MathematicalFunctionData,
+      id=IntegralRepresentations:MathematicalFunctionIdentityData,
+      numsubpods=4,
+      subpods=[
+        Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5915189i4d212hhdh0g10000221848ceb0dia52a?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = 1 - x integral_0^1 sin(t x) dt,
+            title=cos(x) = 1 - x integral_0^1 sin(t x) dt,
+            width=186,
+            height=46,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = 1 - x integral_0^1 sin(t x) dt,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5916189i4d212hhdh0g1000047e12g2916bi62ia?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = - integral_(π/2)^x sin(t) dt,
+            title=cos(x) = - integral_(π/2)^x sin(t) dt,
+            width=149,
+            height=51,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = - integral_(π/2)^x sin(t) dt,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null
+        ], Subpod[
+          title=,
+          img=Image[
+            src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5917189i4d212hhdh0g100004i68g47d606if57c?MSPStoreType=image/gif&s=13,
+            alt=cos(x) = -i/(2 sqrt(π)) integral_(-i ∞ + γ)^(i ∞ + γ) e^(s - x^2/(4 s))/sqrt(s) ds for γ>0,
+            title=cos(x) = -i/(2 sqrt(π)) integral_(-i ∞ + γ)^(i ∞ + γ) e^(s - x^2/(4 s))/sqrt(s) ds for γ>0,
+            width=311,
+            height=60,
+            type=Default,
+            themes=1,2,3,4,5,6,7,8,9,10,11,12,
+            colorinvertable=true,
+            contenttype=image/gif
+          ],
+          imagemap=null,
+          plaintext=cos(x) = -i/(2 sqrt(π)) integral_(-i ∞ + γ)^(i ∞ + γ) e^(s - x^2/(4 s))/sqrt(s) ds for γ>0,
+          mathml=null,
+          sound=null,
+          minput=null,
+          moutput=null,
+          cells=null,
+          states=null],
+          Subpod[
+            title=,
+            img=Image[
+              src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5918189i4d212hhdh0g100005a1a73e37a5ba268?MSPStoreType=image/gif&s=13,
+              alt=cos(x) = -i/(2 sqrt(π)) integral_(-i ∞ + γ)^(i ∞ + γ) (4^s x^(-2 s) Γ(s))/Γ(1/2 - s) ds for (0<γ<1/2 and x>0),
+              title=cos(x) = -i/(2 sqrt(π)) integral_(-i ∞ + γ)^(i ∞ + γ) (4^s x^(-2 s) Γ(s))/Γ(1/2 - s) ds for (0<γ<1/2 and x>0),
+              width=432,
+              height=61,
+              type=Default,
+              themes=1,2,3,4,5,6,7,8,9,10,11,12,
+              colorinvertable=true,
+              contenttype=image/gif
+            ],
+            imagemap=null,
+            plaintext=cos(x) = -i/(2 sqrt(π)) integral_(-i ∞ + γ)^(i ∞ + γ) (4^s x^(-2 s) Γ(s))/Γ(1/2 - s) ds for (0<γ<1/2 and x>0),
+            mathml=null,
+            sound=null,
+            minput=null,
+            moutput=null,
+            cells=null,
+            states=null
+          ]
+        ]
+      ], Pod[
+        title=Definite integral,
+        error=false,
+        position=1500,
+        scanner=InterestingDefiniteIntegrals,
+        id=DefiniteIntegral,
+        numsubpods=1,
+        subpods=[
+          Subpod[
+            title=,
+            img=Image[
+              src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5920189i4d212hhdh0g100005f3d7ehcgb2g2060?MSPStoreType=image/gif&s=13,
+              alt=integral_0^(π/2) cos(x) dx = 1, title=integral_0^(π/2) cos(x) dx = 1,
+              width=117,
+              height=41,
+              type=Default,
+              themes=1,2,3,4,5,6,7,8,9,10,11,12,
+              colorinvertable=true,
+              contenttype=image/gif
+            ],
+            imagemap=null,
+            plaintext=integral_0^(π/2) cos(x) dx = 1,
+            mathml=null,
+            sound=null,
+            minput=null,
+            moutput=null,
+            cells=null,
+            states=null
+          ]
+        ]
+      ], Pod[
+        title=Definite integral mean square,
+        error=false,
+        position=1600,
+        scanner=InterestingDefiniteIntegrals,
+        id=DefiniteIntegralMeanSquare,
+        numsubpods=1,
+        subpods=[
+          Subpod[
+            title=,
+            img=Image[
+              src=https://www6b3.wolframalpha.com/Calculate/MSP/MSP5921189i4d212hhdh0g100002867b3ea463b6309?MSPStoreType=image/gif&s=13,
+              alt=integral_0^(2 π) (cos^2(x))/(2 π) dx = 1/2 = 0.5,
+              title=integral_0^(2 π) (cos^2(x))/(2 π) dx = 1/2 = 0.5,
+              width=178,
+              height=44,
+              type=Default,
+              themes=1,2,3,4,5,6,7,8,9,10,11,12,
+              colorinvertable=true,
+              contenttype=image/gif
+            ],
+            imagemap=null,
+            plaintext=integral_0^(2 π) (cos^2(x))/(2 π) dx = 1/2 = 0.5,
+            mathml=null,
+            sound=null,
+            minput=null,
+            moutput=null,
+            cells=null,
+            states=null
+          ]
+        ]
+      ]
+    ],
+    assumptions=null,
+    examplepages=null,
+    warnings=null,
+    sources=null,
+    generalization=null,
+    didyoumeans=null,
+    error_info=null
+  ]
+]
